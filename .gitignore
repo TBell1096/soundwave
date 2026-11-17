@@ -1,0 +1,21 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Backend build output
+backend/target/
+
+# App
+SoundwaveApp/node_modules/
+SoundwaveApp/dist/
+SoundwaveApp/android/app/build/
+SoundwaveApp/android/app/.cxx/
+SoundwaveApp/android/.gradle/
+SoundwaveApp/ios/Pods/
+
+# OS / logs
+.DS_Store
+Thumbs.db
+*.log
+.env
